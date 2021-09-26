@@ -12,7 +12,7 @@ function Header(){
                     <OptionsContainer>
                         <Icon src="/images/uploadIcon.svg"></Icon>
                         <Avatar>
-                            <img src="https://yt3.ggpht.com/yti/APfAmoExsGfV7YCQ4POgxRnyhpjtt1s30PzNVh8lplVc=s88-c-k-c0x00ffffff-no-rj-mogit"/>
+                            <img src="/images/avatar.JPG"/>
                         </Avatar>
                     </OptionsContainer>
                 </Content>

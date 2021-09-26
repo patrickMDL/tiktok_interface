@@ -22,5 +22,7 @@ export const ContentContainer = styled.div`
     padding: 50px 20px;
     display: flex;
     max-width: 1194px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
 `;
 
